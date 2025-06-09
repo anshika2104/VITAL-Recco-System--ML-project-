@@ -19,22 +19,34 @@ Lightweight database integration using SQLite3.
 Real-time health suggestions (precautions, medications, etc.).
 
 This project demonstrates a practical application of machine learning in healthcare and highlights full-stack integration, data handling, and user-focused design.
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/2974a987-d30c-4477-b9dc-c4f16dfe6cc7)
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/11f7ad08-6588-4dd0-ab26-5008c6e57170)
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/5dfaf918-3f12-45cb-a939-3bb7baa99154)
 
-![Screenshot 2025-04-09 213128](https://github.com/user-attachments/assets/6ccf9fdd-ce98-4f98-984c-fc05649b73e2)
+![Screenshot 2025-06-09 130324](https://github.com/user-attachments/assets/50727fc2-b747-4676-bf7e-0e2f575809f0)
 
-![Screenshot 2025-04-09 213335](https://github.com/user-attachments/assets/604f8a2b-413b-425c-bbb3-84f4b3c8b16f)
+![Screenshot 2025-06-09 125106](https://github.com/user-attachments/assets/bb0d7bf3-7639-4373-a7df-30ff573536c5)
 
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/e4e1c841-10bb-487a-9ea6-15463ad456f6)
+![Screenshot 2025-06-09 124400](https://github.com/user-attachments/assets/8bad6112-908f-422e-9805-315153105e60)
 
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/5e22619d-2ea1-403d-9065-999926d562b2)
 
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/fe4349ea-742f-46a1-9150-88a6a5a8183f)
+![Screenshot 2025-06-09 125123](https://github.com/user-attachments/assets/c530fa06-ba7f-48ce-9982-b2c8836f64cc)
 
-![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/db11b3b4-4594-4d8e-a9c4-35ec48356acc)
+![Screenshot 2025-04-09 213335](https://github.com/user-attachments/assets/34d12f27-bf67-4847-9244-4031252f2355)
 
+
+![Screenshot 2025-04-09 213352](https://github.com/user-attachments/assets/d36b5501-2d5d-4519-89d1-129f184b97bb)
+
+![Screenshot 2025-04-09 213413](https://github.com/user-attachments/assets/855d7709-e0e7-40a9-8790-165afd1d8dbb)
+
+
+
+![Screenshot 2025-06-09 124146](https://github.com/user-attachments/assets/0b933871-7d5e-4b49-a68a-44da353e7999)
+
+
+![Screenshot 2025-06-09 124235](https://github.com/user-attachments/assets/77e3835e-248d-4287-8af8-9933b3097760)
+
+
+![Screenshot 2025-04-09 213106](https://github.com/user-attachments/assets/a3201994-a73a-4f15-a24a-964779739a6b)
+
+you can aslo watch complete project using this vd.
 https://drive.google.com/file/d/1fcr1WWCZBF44amMuPKVOd9rK4V74mO_9/view?usp=sharing
 
 
